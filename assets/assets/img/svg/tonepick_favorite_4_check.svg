@@ -1,0 +1,41 @@
+<svg width="800" height="598" viewBox="0 0 800 598" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_i_1091_3711)">
+<rect x="140" y="10" width="130" height="141.607" fill="#D4BEB4"/>
+<rect x="10" y="10" width="130" height="141.607" fill="#C01521"/>
+<rect x="10" y="151.607" width="130" height="141.607" fill="#71002A"/>
+<rect x="140" y="151.607" width="130" height="141.607" fill="#9C3136"/>
+<rect x="140" y="293.214" width="130" height="141.607" fill="#90433A"/>
+<rect x="10" y="293.214" width="130" height="141.607" fill="#CF1851"/>
+<rect x="140" y="434.821" width="130" height="141.607" fill="#49363B"/>
+<rect x="10" y="434.821" width="130" height="141.607" fill="#BF043E"/>
+<rect x="270" y="10" width="130" height="141.607" fill="#D71430"/>
+<rect x="270" y="151.607" width="130" height="141.607" fill="#D70F63"/>
+<rect x="270" y="293.214" width="130" height="141.607" fill="#83A590"/>
+<rect x="270" y="434.821" width="130" height="141.607" fill="#95343C"/>
+<rect x="400" y="10" width="130" height="141.607" fill="#9D0021"/>
+<rect x="400" y="151.607" width="130" height="141.607" fill="#A3AED8"/>
+<rect x="400" y="293.214" width="130" height="141.607" fill="#D70F63"/>
+<rect x="400" y="434.821" width="130" height="141.607" fill="#81315B"/>
+<rect x="530" y="10" width="130" height="141.607" fill="#B76E58"/>
+<rect x="530" y="151.607" width="130" height="141.607" fill="#AB0F41"/>
+<rect x="530" y="293.214" width="130" height="141.607" fill="#003451"/>
+<rect x="530" y="434.821" width="130" height="141.607" fill="#CC237D"/>
+<rect x="660" y="10" width="130" height="141.607" fill="#912942"/>
+<rect x="660" y="151.607" width="130" height="141.607" fill="#89312D"/>
+<rect x="660" y="293.214" width="130" height="141.607" fill="#D02F33"/>
+<rect x="660" y="434.821" width="130" height="141.607" fill="#C4001F"/>
+<rect x="10" y="10" width="780" height="578" stroke="#5EE3D4" stroke-width="20"/>
+</g>
+<defs>
+<filter id="filter0_i_1091_3711" x="0" y="0" width="800" height="598" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="60"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.7 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_1091_3711"/>
+</filter>
+</defs>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="771" height="269" viewBox="0 0 771 269" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 216V53C3 25.3858 25.3858 3 53 3H718C745.614 3 768 25.3857 768 53V83.2524C768 110.867 745.614 133.252 718 133.252H590.246C562.632 133.252 540.246 155.638 540.246 183.252V216C540.246 243.614 517.86 266 490.246 266H53C25.3858 266 3 243.614 3 216Z" fill="white" fill-opacity="0.5" stroke="#8D8D8D" stroke-width="5"/>
+<rect x="547" y="33" width="60" height="60" rx="15" fill="#CFE4E4"/>
+<rect x="607" y="33" width="60" height="60" rx="15" fill="#EFEDF1"/>
+<rect x="667" y="33" width="60" height="60" rx="15" fill="#CCDAE1"/>
+<rect x="320" y="96" width="60" height="60" rx="15" fill="#F7DBC7"/>
+<rect x="380" y="96" width="60" height="60" rx="15" fill="#E4E4D8"/>
+<rect x="440" y="96" width="60" height="60" rx="15" fill="#EDD2D7"/>
+<rect x="43" y="54" width="60" height="60" rx="15" fill="#F4DDB9"/>
+<rect x="103" y="54" width="60" height="60" rx="15" fill="#EEE9DA"/>
+<rect x="163" y="54" width="60" height="60" rx="15" fill="#E0DBE0"/>
+<rect x="93" y="179" width="60" height="60" rx="15" fill="#F3C9A8"/>
+<rect x="153" y="179" width="60" height="60" rx="15" fill="#F0E3D0"/>
+<rect x="213" y="179" width="60" height="60" rx="15" fill="#C8DFDF"/>
+</svg>
