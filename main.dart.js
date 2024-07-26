@@ -71839,7 +71839,7 @@ a6i(a){return a>=this.gkm()&&a<this.gqx()},
 i(a){var s=this
 return"Keyframe{startValue="+A.i(s.b)+", endValue="+A.i(s.c)+", startFrame="+A.i(s.r)+", endFrame="+A.i(s.w)+", interpolator="+A.i(s.d)+"}"}}
 A.aj1.prototype={
-$1(a){return 1},
+$1(a){return 0},
 $S:122}
 A.ajB.prototype={
 $1(a){return"ko"},
